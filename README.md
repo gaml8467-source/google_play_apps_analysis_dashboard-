@@ -57,16 +57,8 @@ The analysis includes **data cleaning, feature engineering, DAX calculations, an
 
 ##  Dashboard Preview
 
-### Home
-<img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/Home.png" width="800">
-
-### Overview
-<img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/overview.png" width="800">
-
-### Details
-<img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/details.png" width="800">
 ###  Home Page
-- Navigation buttons between pages
+<img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/Home.png" width="800">
 
 ### Overview Page
 - 4 KPIs (Apps, Rating, Reviews, Installs)
@@ -76,11 +68,18 @@ The analysis includes **data cleaning, feature engineering, DAX calculations, an
   - Installs by Category
   - Free vs Paid Apps
 - Slicers for filtering
+<img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/overview.png" width="800">
+
+
 
 ###  Details Page
 - Rating vs Reviews analysis
 - Category performance breakdown
 - Additional filters and slicers
+<img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/details.png" width="800">
+
+
+
 
 ---
 
