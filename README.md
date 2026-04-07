@@ -1,6 +1,6 @@
 #  Google Play Apps Analysis Dashboard (Power BI)
 
-<img src="" width="900">
+<img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/overview.png" width="900">
 
 
 ##  Project Overview
@@ -55,8 +55,17 @@ The analysis includes **data cleaning, feature engineering, DAX calculations, an
 
 ---
 
-##  Dashboard Structure
+##  Dashboard Preview
 
+### Home
+<img src="" width="800">
+
+### Overview
+<img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/overview.png" width="800">
+
+### Details
+<img src="
+  " width="800">
 ###  Home Page
 - Navigation buttons between pages
 
