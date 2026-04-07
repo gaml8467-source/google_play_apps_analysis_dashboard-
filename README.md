@@ -58,14 +58,13 @@ The analysis includes **data cleaning, feature engineering, DAX calculations, an
 ##  Dashboard Preview
 
 ### Home
-<img src="" width="800">
+<img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/Home.png" width="800">
 
 ### Overview
 <img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/overview.png" width="800">
 
 ### Details
-<img src="
-  " width="800">
+<img src="https://raw.githubusercontent.com/gaml8467-source/google_play_apps_analysis_dashboard-/refs/heads/main/Google%20Play/photo/details.png" width="800">
 ###  Home Page
 - Navigation buttons between pages
 
